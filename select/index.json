@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "FOR YOU UFO",
+  "base_artist": "frederic",
+  "createdAt": "2026-01-14T08:42:24.243634Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "For You Ufo",
+      "artist": "Frederic",
+      "has_synced": true,
+      "path": "select/01_For_You_Ufo_Frederic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FOR YOU UFO",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_01_FOR_YOU_UFO_フレデリック.txt"
+    }
+  ]
+}
